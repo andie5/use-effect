@@ -7,8 +7,8 @@ import RedditWrapper from "./RedditWrapper";
 
 ReactDOM.render(
   <React.StrictMode>
-    {/* Pass "reactjs" as a prop: */}
     <RedditWrapper />
+    {/* <FocusedInput /> */}
   </React.StrictMode>,
   document.getElementById("root")
 );
